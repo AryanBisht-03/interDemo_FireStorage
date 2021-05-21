@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternDemoStorage</string>
+    <string name="headingTitle">Please upload small size Video because this app is made to upload small size videos due
+                        to time constraint </string>
+
+    <string name="addNewButton">Add New</string>
+
+</resources>
